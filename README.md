@@ -9,7 +9,7 @@ Selamat datang di quest **#HacktoberFest2020** ke-empat, pada quest ini kalian d
 2. Kemudian kalian mengclone repository yang telah kalian fork 
 3. Buka folder repository yang sudah kalian clone dengan text editor kalian
 4. Kalian bisa melakukan copy paste format yang sudah ada dan 
-5. Setelah kalian menambahkan daftar Culinary ke file **[Indonesia Culinary.json](https://github.com/tiuinws/list-vacation-spot-on-indonesia/blob/master/indonesia-culinary.json)**, kalian bisa mengikuti step dibawah ini untuk melakukan pull request.
+5. Setelah kalian menambahkan daftar Kuliner ke file **[Indonesia Culinary.json](https://github.com/tiuinws/list-vacation-spot-on-indonesia/blob/master/indonesia-culinary.json)**, kalian bisa mengikuti step dibawah ini untuk melakukan pull request.
 
 ```bash
 git status 

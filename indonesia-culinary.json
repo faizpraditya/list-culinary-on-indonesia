@@ -1,14 +1,164 @@
 [
     {
-        "name" : "Coto Makasar Bugis",
-        "region" : "Makassar",
-        "description" : "Coto Makasar merupakan jenis makanan berkuah yang didalamnya terdapat campuran jeroan. Sebelum dihidangkan jeroan sapi direbus terlebih dahulu dengan menggunakan bumbu yang secara khusus sudah diracik. Coto Makasar ini akan disajikan dengan ketupat serta burasa. Burasa adalah nama makanan khas bugis dan juga Makassar yang dikenal juga dengan sebutan lapat dan lontong bersantan",
-        "picture" : "https://truffle-assets.imgix.net/e1c0a6a1-s13-313-coto-makasar-l-id.png"
+        "name": "Coto Makasar Bugis",
+        "region": "Makassar",
+        "description": "Coto Makasar merupakan jenis makanan berkuah yang didalamnya terdapat campuran jeroan. Sebelum dihidangkan jeroan sapi direbus terlebih dahulu dengan menggunakan bumbu yang secara khusus sudah diracik. Coto Makasar ini akan disajikan dengan ketupat serta burasa. Burasa adalah nama makanan khas bugis dan juga Makassar yang dikenal juga dengan sebutan lapat dan lontong bersantan",
+        "picture": "https://truffle-assets.imgix.net/e1c0a6a1-s13-313-coto-makasar-l-id.png"
     },
     {
-        "name" : "Konro Bakar",
-        "region" : "Makassar",
-        "description" : "Konro juga ada yang berbentuk bakar. Jika pada sup konro iga sapinya direbus, berbeda dengan konro bakar yang yang cara penyajiannya dengan cara dibakar kemudian disajikan. Untuk rasanya tidak perlu ditanyakan lagi, konro bakar ini juga memiliki rasa yang tidak kalah lezatnya dengan sup konro.",
-        "picture" : "https://makananoleholeh.com/wp-content/uploads/2018/10/Konro-Bakar.jpg"
+        "name": "Konro Bakar",
+        "region": "Makassar",
+        "description": "Konro juga ada yang berbentuk bakar. Jika pada sup konro iga sapinya direbus, berbeda dengan konro bakar yang yang cara penyajiannya dengan cara dibakar kemudian disajikan. Untuk rasanya tidak perlu ditanyakan lagi, konro bakar ini juga memiliki rasa yang tidak kalah lezatnya dengan sup konro.",
+        "picture": "https://makananoleholeh.com/wp-content/uploads/2018/10/Konro-Bakar.jpg"
     },
+    {
+        "name": "Mendoan",
+        "region": "Purwokerto",
+        "description": "Mendoan Adalah makanan sejenis gorengan yang berasal dari wilayah Karesidenan Banyumas, Jawa Tengah. Kata 'mendoan' dianggap berasal dari Bahasa Banyumasan yaitu mendo yang berarti setengah matang atau lembek.",
+        "picture": "ttps://upload.wikimedia.org/wikipedia/id/b/b7/Mendoan.jpg"
+    },
+    {
+        "name": "Getuk",
+        "region": "Jawa Tengah",
+        "description": "Getuk adalah makanan ringan yang terbuat dengan bahan utama ketela pohon atau singkong. Getuk merupakan makanan yang mudah ditemukan di Jawa Tengah dan Jawa Timur.",
+        "picture": "ttps://upload.wikimedia.org/wikipedia/commons/a/af/Getuk_lindri.jpg"
+    },
+    {
+        "name": "Rendang",
+        "region": "Minangkabau",
+        "description": "Rendang is an Indonesian spicy meat dish originating from the Minangkabau region in West Sumatra, Indonesia. It has spread across Indonesia to the cuisines of neighbouring Southeast Asian countries.",
+        "picture": "https://rasamalaysia.com/wp-content/uploads/2018/04/beef-rendang-thumb-480x480.jpg"
+    },
+    {
+        "name": "Sate Madura",
+        "region": "Madura",
+        "description": "Makanan Khas Daerah Madura",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fresepkoki.id%2Fwp-content%2Fuploads%2F2018%2F01%2FResep-Sate-Ayam-Madura-1.jpg%3Ffit%3D2399%252C2254%26ssl%3D1&imgrefurl=https%3A%2F%2Fresepkoki.id%2Fresep%2Fresep-sate-ayam-madura%2F&tbnid=l1Dl3hX2cRQXbM&vet=12ahUKEwidlMuDuansAhXFHXIKHbe4D50QMygBegUIARChAQ..i&docid=T4H9Kk8xaQ2VlM&w=2399&h=2254&q=sate%20madura&safe=strict&ved=2ahUKEwidlMuDuansAhXFHXIKHbe4D50QMygBegUIARChAQ"
+    },
+    {
+        "name": "Sate Maranggi",
+        "region": "Purwakarta",
+        "description": "Makanan Khas Daerah Purwakarta",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sahabatufs.com%2Fimg%2Fnews%2F03.%2520UFS_Oktober%25202019_Header.jpg&imgrefurl=https%3A%2F%2Fwww.sahabatufs.com%2Fnews%2Fmengenal-sate-maranggi-lebih-dekat-khas-purwakarta&tbnid=dqnIkcU48Q2LDM&vet=12ahUKEwjwt5-kuansAhXhNHIKHfMyBawQMygAegUIARCsAQ..i&docid=CgP5PsZ-fadJ5M&w=1000&h=667&q=sate%20maranggi&safe=strict&ved=2ahUKEwjwt5-kuansAhXhNHIKHfMyBawQMygAegUIARCsAQ"
+    },
+    {
+        "name": "Sate madura",
+        "region": "Madura",
+        "description": "Sate Madura adalah sate yang meiliki bumbu khas Madura. Sate Madura biasanya terbuat dari ayam. Madura selain terkenal sebagai pulau garam, juga terkenal dengan satenya.",
+        "picture": "https://www.resepkuerenyah.com/wp-content/uploads/2017/05/Sate-Ayam-Khas-Madura.jpg"
+    },
+    {
+        "name": "Serabi",
+        "region": "Jakarta",
+        "description": "Serabi merupakan jajanan pasar tradisional yang berasal dari Indonesia. Ada dua jenis serabi, yaitu serabi manis yang menggunakan kinca dan serabi asin dengan atau tanpa taburan oncom yang telah dibumbui di atasnya.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Serabi-01.jpg"
+    },
+    {
+        "name": "Bika Ambon",
+        "region": "Medan",
+        "description": "Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kue_bika_ambon.JPG/1200px-Kue_bika_ambon.JPG"
+    },
+    {
+        "name": "Kue Ombusombus",
+        "region": "Siborong-borong",
+        "description": "Kue Ombusombus adalah makanan atau jajanan khas Batak yang berasal dari Siborongborong, Tapanuli Utara. Kue ombusombus terbuat dari tepung beras yang diberi gula di tengahnya dan dibungkus dengan daun pisang.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/f/f0/Ombusombus.jpeg"
+    },
+    {
+        "name": "pempek",
+        "region": "palembang",
+        "description": "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tribunnews.com%2Flifestyle%2F2020%2F06%2F15%2Fpempek-kapal-selam-kuliner-khas-palembang-yang-bisa-dibuat-langsung-di-rumah&psig=AOvVaw0ecCvtFvy3DbMg7NS-yfQc&ust=1602401318473000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCB3bvAqewCFQAAAAAdAAAAABAD"
+    },
+    {
+        "name": "Nasi Goreng",
+        "region": "Indonesia",
+        "description": "sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin atau mentega, biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk.",
+        "picture": "https://img-global.cpcdn.com/recipes/8979ffdea7759481/400x400cq70/photo.jpg"
+    },
+    {
+        "name": "Rendang",
+        "region": "Indonesia",
+        "description": "masakan daging yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.",
+        "picture": "https://asset.kompas.com/crops/a29yE_hzxM0nJBIId_Lh6aeDkok=/0x3:977x654/780x390/data/photo/2020/06/30/5efaf91e0ec2c.jpg"
+    },
+    {
+        "name": "Sate Taichan",
+        "region": "Pontianak",
+        "description": "Sate taichan adalah sebuah varian sate yang berisi daging ayam yang dibakar tanpa baluran bumbu kacang atau kecap seperti sate pada umumnya",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Floveinshallah.com%2Fsate-taichan%2F&psig=AOvVaw1ps9zsAJKLOcuzFE0B8e8K&ust=1602401796582000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjDvoPCqewCFQAAAAAdAAAAABAX"
+    },
+    {
+        "name": "Ayam Bakar Taliwang",
+        "region": "Lombok",
+        "description": "Ayam Taliwang adalah makanan khas Pulau Lombok dari Kampung Karang Taliwang, Kota Mataram, Nusa Tenggara Barat yang berbahan dasar daging ayam. Daging ayam yang disajikan berasal dari ayam kampung muda yang dibakar kemudian dibumbui dengan semacam saus yang bahannya antara lain cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan garam. Makanan ini biasanya disajikan bersama makanan khas Lombok yang lain, misalnya plecing kangkung.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ayam_bakar_khas_Taliwang_2.JPG/800px-Ayam_bakar_khas_Taliwang_2.JPG"
+    },
+    {
+        "name": "Krensengan",
+        "region": "Jawa Timur",
+        "description": "Krengsengan adalah masakan yang biasanya terbuat dari daging kambing yang dipotong kecil (2X2 cm), yang diberi bumbu tumisan bawang merah, bawang putih, ketumbar, merica, pala, (dihaluskan terlebih dahulu) ditambah dengan kecap manis pada waktu memasak, sehingga tidak banyak berkuah dan berwarna coklat tua, ada juga yang dicampur dengan bagian jeroan kambing. Masakan yang khas menggunakan daging kambing ini biasanya dijumpai bersama gulai kambing, dan tongseng yang juga menggunakan daging kambing. Masakan ini umumnya dikenal di Jawa Timur, Jawa Tengah dan DI Yogyakarta. ",
+        "picture": "https://craftlog.com/m/i/4414038=s1280=h960"
+    },
+    {
+        "name": "Seblak",
+        "region": "Bandung",
+        "description": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas[1]. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dan dimasak dengan kencur.[2] Seblak kini menjadi makanan jajanan jalanan yang digemari berbagai kalangan masyarakat, terutama di Jawa Barat dan Jabodetabek. Seiring berkembangnya tren jajanan tradisional dan kaki lima, seblak tidak hanya disajikan dengan toping biasa di gerobak. Seblak berkembang menjadi makanan yang modern dan berhasil menarik perhatian. Makanan yang bertekstur kenyal ini memiliki rasa yang pedas dan menyegarkan, serta memiliki beberapa variasi, baik rasa maupun bahan tambahan juga kemasan penjualan. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seblak_1.jpg/440px-Seblak_1.jpg"
+    },
+    {
+        "name": "Kupan Glabed",
+        "region": "Tegal",
+        "description": "Kupat glabed adalah kuliner khas Tegal",
+        "picture": "https://www.goodnewsfromindonesia.id/uploads/post/large-kupat-glabed-dan-sate-blengong-1-3b5c84baf4a7344095cbc5c37cf8f25a.jpg"
+    },
+    {
+        "name": "Sate Blengong",
+        "region": "Brebes",
+        "description": "Kupat Glabed adalah kuliner khas Brebes",
+        "picture": "https://asset.kompas.com/crops/JYZK_WhO6fKSdYGkp7M_vvTD8aU=/130x0:726x397/750x500/data/photo/2017/12/26/601775230.jpg"
+    },
+    {
+        "name": "Tahu Bakso",
+        "region": "Ungaran",
+        "description": "Tahu bakso merupakan makanan khas dari ungaran, jawa tengah. Tahu bakso terbuat dari tahu dengan isian bakso.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tahubakso.jpg/800px-Tahubakso.jpg"
+    },
+    {
+        "name": "Tahu Gimbal",
+        "region": "Kota Semarang",
+        "description": "Tahu gimbal merupakan makanan khas kota Semarang, jawa tengah. Makanan ini terdiri dari tahu goreng, rajangan kol mentah, lontong, taoge, telur, dan gimbal (udang yang digoreng dengan tepung) dan dicampur dengan bumbu kacang yang khas karena menggunakan petis udang.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/f/f7/Tahu_Gimbal_Semarang.jpg/220px-Tahu_Gimbal_Semarang.jpg"
+    },
+    {
+        "name": "Tahu Petis",
+        "region": "Kota Semarang",
+        "description": "Tahu petis adalah jajanan khas kota Semarang berupa tahu goreng yang dimakan dengan petis (saus berwarna hitam kental yang biasanya terbuat dari udang) yang dioleskan/disisipkan di tengah-tengah tahu.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/2/2a/Tahu_Petis.jpg/240px-Tahu_Petis.jpg"
+    },
+    {
+        "name": "Wedang Tahu",
+        "region": "Kota Semarang",
+        "description": "Wedang Tahu  adalah minuman yang beromakan jahe dan berisi kembang tahu yang terbuat dari sari kedelai.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Wedang-tahu1.jpg/250px-Wedang-tahu1.jpg"
+    },
+    {
+        "name": "Tahu Pong",
+        "region": "Kota Semarang",
+        "description": "Tahu pong berasal dari bahasa jawa pong atau kopong yang artinya kosong. Tahu pong telah eksis di daerah semarang semenjak 1930.",
+        "picture": "https://jcglobalcitizen.files.wordpress.com/2009/03/tahu-pong.jpg"
+    }
+      {
+        "name": "Soto Lamongan",
+        "region": "Lamongan",
+        "description": "Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada serbuk krupuk udangnya yang sering disebut Poya",
+        "picture": "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305-780x440.jpg"
+    },
+    {
+        "name": "Wingko",
+        "region": "Lamongan",
+        "description": "Wingko adalah sejenis kue yang terbuat dari kelapa muda, tepung beras ketan dan gula. Wingko sangat terkenal di pantai utara pulau Jawa.",
+        "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
+    }
 ]

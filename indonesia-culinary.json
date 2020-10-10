@@ -1,14 +1,68 @@
 [
     {
-        "name" : "Krensengan",
-        "region" : "Jawa Timur",
-        "description" : "Krengsengan adalah masakan yang biasanya terbuat dari daging kambing yang dipotong kecil (2X2 cm), yang diberi bumbu tumisan bawang merah, bawang putih, ketumbar, merica, pala, (dihaluskan terlebih dahulu) ditambah dengan kecap manis pada waktu memasak, sehingga tidak banyak berkuah dan berwarna coklat tua, ada juga yang dicampur dengan bagian jeroan kambing. Masakan yang khas menggunakan daging kambing ini biasanya dijumpai bersama gulai kambing, dan tongseng yang juga menggunakan daging kambing. Masakan ini umumnya dikenal di Jawa Timur, Jawa Tengah dan DI Yogyakarta. ",
-        "picture" : "https://craftlog.com/m/i/4414038=s1280=h960"
+        "name": "Krensengan",
+        "region": "Jawa Timur",
+        "description": "Krengsengan adalah masakan yang biasanya terbuat dari daging kambing yang dipotong kecil (2X2 cm), yang diberi bumbu tumisan bawang merah, bawang putih, ketumbar, merica, pala, (dihaluskan terlebih dahulu) ditambah dengan kecap manis pada waktu memasak, sehingga tidak banyak berkuah dan berwarna coklat tua, ada juga yang dicampur dengan bagian jeroan kambing. Masakan yang khas menggunakan daging kambing ini biasanya dijumpai bersama gulai kambing, dan tongseng yang juga menggunakan daging kambing. Masakan ini umumnya dikenal di Jawa Timur, Jawa Tengah dan DI Yogyakarta. ",
+        "picture": "https://craftlog.com/m/i/4414038=s1280=h960"
     },
     {
-        "name" : "Seblak",
-        "region" : "Bandung",
-        "description" : "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas[1]. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dan dimasak dengan kencur.[2] Seblak kini menjadi makanan jajanan jalanan yang digemari berbagai kalangan masyarakat, terutama di Jawa Barat dan Jabodetabek. Seiring berkembangnya tren jajanan tradisional dan kaki lima, seblak tidak hanya disajikan dengan toping biasa di gerobak. Seblak berkembang menjadi makanan yang modern dan berhasil menarik perhatian. Makanan yang bertekstur kenyal ini memiliki rasa yang pedas dan menyegarkan, serta memiliki beberapa variasi, baik rasa maupun bahan tambahan juga kemasan penjualan. ",
-        "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seblak_1.jpg/440px-Seblak_1.jpg"
+        "name": "Seblak",
+        "region": "Bandung",
+        "description": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas[1]. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dan dimasak dengan kencur.[2] Seblak kini menjadi makanan jajanan jalanan yang digemari berbagai kalangan masyarakat, terutama di Jawa Barat dan Jabodetabek. Seiring berkembangnya tren jajanan tradisional dan kaki lima, seblak tidak hanya disajikan dengan toping biasa di gerobak. Seblak berkembang menjadi makanan yang modern dan berhasil menarik perhatian. Makanan yang bertekstur kenyal ini memiliki rasa yang pedas dan menyegarkan, serta memiliki beberapa variasi, baik rasa maupun bahan tambahan juga kemasan penjualan. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seblak_1.jpg/440px-Seblak_1.jpg"
+    },
+    {
+        "name": "Kupan Glabed",
+        "region": "Tegal",
+        "description": "Kupat glabed adalah kuliner khas Tegal",
+        "picture": "https://www.goodnewsfromindonesia.id/uploads/post/large-kupat-glabed-dan-sate-blengong-1-3b5c84baf4a7344095cbc5c37cf8f25a.jpg"
+    },
+    {
+        "name": "Sate Blengong",
+        "region": "Brebes",
+        "description": "Kupat Glabed adalah kuliner khas Brebes",
+        "picture": "https://asset.kompas.com/crops/JYZK_WhO6fKSdYGkp7M_vvTD8aU=/130x0:726x397/750x500/data/photo/2017/12/26/601775230.jpg"
+    },
+    {
+        "name": "Tahu Bakso",
+        "region": "Ungaran",
+        "description": "Tahu bakso merupakan makanan khas dari ungaran, jawa tengah. Tahu bakso terbuat dari tahu dengan isian bakso.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tahubakso.jpg/800px-Tahubakso.jpg"
+    },
+    {
+        "name": "Tahu Gimbal",
+        "region": "Kota Semarang",
+        "description": "Tahu gimbal merupakan makanan khas kota Semarang, jawa tengah. Makanan ini terdiri dari tahu goreng, rajangan kol mentah, lontong, taoge, telur, dan gimbal (udang yang digoreng dengan tepung) dan dicampur dengan bumbu kacang yang khas karena menggunakan petis udang.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/f/f7/Tahu_Gimbal_Semarang.jpg/220px-Tahu_Gimbal_Semarang.jpg"
+    },
+    {
+        "name": "Tahu Petis",
+        "region": "Kota Semarang",
+        "description": "Tahu petis adalah jajanan khas kota Semarang berupa tahu goreng yang dimakan dengan petis (saus berwarna hitam kental yang biasanya terbuat dari udang) yang dioleskan/disisipkan di tengah-tengah tahu.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/2/2a/Tahu_Petis.jpg/240px-Tahu_Petis.jpg"
+    },
+    {
+        "name": "Wedang Tahu",
+        "region": "Kota Semarang",
+        "description": "Wedang Tahu  adalah minuman yang beromakan jahe dan berisi kembang tahu yang terbuat dari sari kedelai.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/thumb/2/23/Wedang-tahu1.jpg/250px-Wedang-tahu1.jpg"
+    },
+    {
+        "name": "Tahu Pong",
+        "region": "Kota Semarang",
+        "description": "Tahu pong berasal dari bahasa jawa pong atau kopong yang artinya kosong. Tahu pong telah eksis di daerah semarang semenjak 1930.",
+        "picture": "https://jcglobalcitizen.files.wordpress.com/2009/03/tahu-pong.jpg"
+    }
+      {
+        "name": "Soto Lamongan",
+        "region": "Lamongan",
+        "description": "Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada serbuk krupuk udangnya yang sering disebut Poya",
+        "picture": "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305-780x440.jpg"
+    },
+    {
+        "name": "Wingko",
+        "region": "Lamongan",
+        "description": "Wingko adalah sejenis kue yang terbuat dari kelapa muda, tepung beras ketan dan gula. Wingko sangat terkenal di pantai utara pulau Jawa.",
+        "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
     }
 ]

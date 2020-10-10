@@ -1,23 +1,16 @@
 [
-
-    [
-        {
-            "name" : "Laksa",
-            "region" : "Betawi,Bogor,Tangerang",
-            "description" : "Laksa biasanya disajikan dengan mi ataupun telur rebus. Namun masing-masing daerah memiliki ciri laksanya sendiri. Sekilas, laksa seperti makanan dengan kuah kari atau opor karena kuahnya sendiri bewarna kekuningan dengan cita rasa yang khas dan bikin nagih.",
-            "picture" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjljC0lIVrg8eYiS4jKbNI1Ep9QkKPId0WFg&usqp=CAU"
-        },
-        
-        {
-            "name" : "Mie Ongklok",
-            "region" : "Wonosobo",
-            "description" : "Mi (atau bakmi) ongklok adalah mi rebus khas kota Wonosobo dan sekitarnya. Mi rebus ini dibuat dengan menggunakan kol, potongan daun kucai, dan kuah kental berkanji yang disebut loh. Mi ini banyak dijajakan di berbagai warung, rumah makan, maupun dijajakan keliling memakai gerobak di kota tersebut. Pendampingnya biasanya adalah sate sapi, tempe kemul, serta keripik tahu.",
-            "picture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mi_ongklok_sate_sapi_Wonosobo.JPG/220px-Mi_ongklok_sate_sapi_Wonosobo.JPG"
-        }
-    ]
-    
-]
-=======
+    {
+        "name": "Laksa",
+        "region": "Betawi,Bogor,Tangerang",
+        "description": "Laksa biasanya disajikan dengan mi ataupun telur rebus. Namun masing-masing daerah memiliki ciri laksanya sendiri. Sekilas, laksa seperti makanan dengan kuah kari atau opor karena kuahnya sendiri bewarna kekuningan dengan cita rasa yang khas dan bikin nagih.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjljC0lIVrg8eYiS4jKbNI1Ep9QkKPId0WFg&usqp=CAU"
+    },
+    {
+        "name": "Mie Ongklok",
+        "region": "Wonosobo",
+        "description": "Mi (atau bakmi) ongklok adalah mi rebus khas kota Wonosobo dan sekitarnya. Mi rebus ini dibuat dengan menggunakan kol, potongan daun kucai, dan kuah kental berkanji yang disebut loh. Mi ini banyak dijajakan di berbagai warung, rumah makan, maupun dijajakan keliling memakai gerobak di kota tersebut. Pendampingnya biasanya adalah sate sapi, tempe kemul, serta keripik tahu.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mi_ongklok_sate_sapi_Wonosobo.JPG/220px-Mi_ongklok_sate_sapi_Wonosobo.JPG"
+    },
     {
         "name": "redang",
         "region": "sumatera barat",
@@ -211,4 +204,3 @@
         "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
     }
 ]
-

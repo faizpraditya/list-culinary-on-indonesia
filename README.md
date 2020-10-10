@@ -14,7 +14,7 @@ Selamat datang di quest **#HacktoberFest2020** ke-empat, pada quest ini kalian d
 ```bash
 git status 
 git add .
-git commit -m "Nama kalian add new Culute #HacktoberFest2020"
+git commit -m "Nama kalian add new Culinary #HacktoberFest2020"
 git checkout -b usernamekalian (example : git checkout -b rofi)
 git push -u origin usernamekalian (examle : git push -u origin rofi)
 ```

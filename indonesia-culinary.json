@@ -1,5 +1,17 @@
 [
     {
+        "name": "Coto Makasar Bugis",
+        "region": "Makassar",
+        "description": "Coto Makasar merupakan jenis makanan berkuah yang didalamnya terdapat campuran jeroan. Sebelum dihidangkan jeroan sapi direbus terlebih dahulu dengan menggunakan bumbu yang secara khusus sudah diracik. Coto Makasar ini akan disajikan dengan ketupat serta burasa. Burasa adalah nama makanan khas bugis dan juga Makassar yang dikenal juga dengan sebutan lapat dan lontong bersantan",
+        "picture": "https://truffle-assets.imgix.net/e1c0a6a1-s13-313-coto-makasar-l-id.png"
+    },
+    {
+        "name": "Konro Bakar",
+        "region": "Makassar",
+        "description": "Konro juga ada yang berbentuk bakar. Jika pada sup konro iga sapinya direbus, berbeda dengan konro bakar yang yang cara penyajiannya dengan cara dibakar kemudian disajikan. Untuk rasanya tidak perlu ditanyakan lagi, konro bakar ini juga memiliki rasa yang tidak kalah lezatnya dengan sup konro.",
+        "picture": "https://makananoleholeh.com/wp-content/uploads/2018/10/Konro-Bakar.jpg"
+    },
+    {
         "name": "Mendoan",
         "region": "Purwokerto",
         "description": "Mendoan Adalah makanan sejenis gorengan yang berasal dari wilayah Karesidenan Banyumas, Jawa Tengah. Kata 'mendoan' dianggap berasal dari Bahasa Banyumasan yaitu mendo yang berarti setengah matang atau lembek.",

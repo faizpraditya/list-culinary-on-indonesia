@@ -1,8 +1,14 @@
 [
     {
-        "name" : "",
-        "region" : "",
-        "description" : "",
-        "picture" : ""
+        "name" : "Mendoan",
+        "region" : "Purwokerto",
+        "description" : "Mendoan Adalah makanan sejenis gorengan yang berasal dari wilayah Karesidenan Banyumas, Jawa Tengah. Kata 'mendoan' dianggap berasal dari Bahasa Banyumasan yaitu mendo yang berarti setengah matang atau lembek.",
+        "picture" : "ttps://upload.wikimedia.org/wikipedia/id/b/b7/Mendoan.jpg"
+    },
+    {
+        "name" : "Getuk",
+        "region" : "Jawa Tengah",
+        "description" : "Getuk adalah makanan ringan yang terbuat dengan bahan utama ketela pohon atau singkong. Getuk merupakan makanan yang mudah ditemukan di Jawa Tengah dan Jawa Timur.",
+        "picture" : "ttps://upload.wikimedia.org/wikipedia/commons/a/af/Getuk_lindri.jpg"
     },
 ]

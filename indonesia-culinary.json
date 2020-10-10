@@ -1,8 +1,14 @@
 [
-    {
-        "name" : "",
-        "region" : "",
-        "description" : "",
-        "picture" : ""
-    },
+  {
+    "name": "Soto Lamongan",
+    "region": "Lamongan",
+    "description": "Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada serbuk krupuk udangnya yang sering disebut Poya",
+    "picture": "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305-780x440.jpg"
+  },
+  {
+    "name": "Wingko",
+    "region": "Lamongan",
+    "description": "Wingko adalah sejenis kue yang terbuat dari kelapa muda, tepung beras ketan dan gula. Wingko sangat terkenal di pantai utara pulau Jawa.",
+    "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
+  }
 ]

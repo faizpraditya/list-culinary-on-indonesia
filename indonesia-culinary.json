@@ -1,5 +1,35 @@
 [
     {
+        "name": "redang",
+        "region": "sumatera barat",
+        "description": "rendang adalah hidangan daging dari suku minangkabau di sumatera barat. hidangan ini terkenal dengan kepedasannya dan prosedur memasaknya yang panjang",
+        "picture": "https://cdn.tmpo.co/data/2012/07/05/id_129440/129440_650.jpg"
+    },
+    {
+        "name": "mie aceh",
+        "region": "aceh",
+        "description": "makanan khas daerah aceh ini memiliki tekstur yang tebal dan dicampur dengan irisan daging serta bumbu bumbu rempah yang kuat",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Mie_Aceh_with_beef.jpg"
+    },
+    {
+        "name": "bika ambon",
+        "region": "sumatera utara",
+        "description": "kue ini berasal dari sumatera utara dan biasanya banyak dijual di kota medan sebagai oleh oleh, kue berwarna kuning ini memilikiu tekstur yang lembut dan manis. serta bikin ketagihan saat melahapnya",
+        "picture": "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/6/5/6146070/6146070_1181a915-97c0-4849-8aaa-05f7b637ca51_627_627.jpg"
+    },
+    {
+        "name": "gulai belacan",
+        "region": "riau",
+        "description": "belacan merupakan nama lain dari terasi yang begitu dikenal oleh orang sumatera, makakanan khas riau ini dibuat dari bahan dasar berupa kuah yang dicampur dengan terasi, selain itu terdapat pula daging, udang atau ikan",
+        "picture": "https://api.minapoli.com/media/infomina/p/medium_e119bf421ce51e63c7201e46785238e2.png"
+    },
+    {
+        "name": "otak otak",
+        "region": "riau",
+        "description": "di riau terdapat makanan tradisional yang terbuat dari seafood. ya otak otak ini merupakan makanan hasil laut yang diolah dan dibungkus dangan daun pisang",
+        "picture": "https://kbu-cdn.com/dk/wp-content/uploads/otak-otak-lele.jpg"
+    },
+    {
         "name": "Coto Makasar Bugis",
         "region": "Makassar",
         "description": "Coto Makasar merupakan jenis makanan berkuah yang didalamnya terdapat campuran jeroan. Sebelum dihidangkan jeroan sapi direbus terlebih dahulu dengan menggunakan bumbu yang secara khusus sudah diracik. Coto Makasar ini akan disajikan dengan ketupat serta burasa. Burasa adalah nama makanan khas bugis dan juga Makassar yang dikenal juga dengan sebutan lapat dan lontong bersantan",

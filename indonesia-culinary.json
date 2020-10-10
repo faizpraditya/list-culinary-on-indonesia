@@ -1,8 +1,8 @@
 [
     {
-        "name" : "",
-        "region" : "",
-        "description" : "",
-        "picture" : ""
-    },
+        "name" : "pempek",
+        "region" : "palembang",
+        "description" : "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.",
+        "picture" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tribunnews.com%2Flifestyle%2F2020%2F06%2F15%2Fpempek-kapal-selam-kuliner-khas-palembang-yang-bisa-dibuat-langsung-di-rumah&psig=AOvVaw0ecCvtFvy3DbMg7NS-yfQc&ust=1602401318473000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCB3bvAqewCFQAAAAAdAAAAABAD"
+    }
 ]

@@ -1,5 +1,17 @@
 [
     {
+        "name" : "Nasi Goreng",
+        "region" : "Indonesia",
+        "description" : "sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin atau mentega, biasanya ditambah kecap manis, bawang merah, bawang putih, asam jawa, lada dan bumbu-bumbu lainnya, seperti telur, ayam, dan kerupuk.",
+        "picture" : "https://img-global.cpcdn.com/recipes/8979ffdea7759481/400x400cq70/photo.jpg"
+    },
+    {
+        "name" : "Rendang",
+        "region" : "Indonesia",
+        "description" : "masakan daging yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.",
+        "picture" : "https://asset.kompas.com/crops/a29yE_hzxM0nJBIId_Lh6aeDkok=/0x3:977x654/780x390/data/photo/2020/06/30/5efaf91e0ec2c.jpg"
+    },
+    {
         "name" : "Sate Taichan",
         "region" : "Pontianak",
         "description" : "Sate taichan adalah sebuah varian sate yang berisi daging ayam yang dibakar tanpa baluran bumbu kacang atau kecap seperti sate pada umumnya",

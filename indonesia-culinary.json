@@ -1,8 +1,14 @@
 [
     {
-        "name" : "",
-        "region" : "",
-        "description" : "",
-        "picture" : ""
+        "name" : "Sate madura",
+        "region" : "Madura",
+        "description" : "Sate Madura adalah sate yang meiliki bumbu khas Madura. Sate Madura biasanya terbuat dari ayam. Madura selain terkenal sebagai pulau garam, juga terkenal dengan satenya.",
+        "picture" : "https://www.resepkuerenyah.com/wp-content/uploads/2017/05/Sate-Ayam-Khas-Madura.jpg"
     },
+    {
+        "name" : "Serabi",
+        "region" : "Jakarta",
+        "description" : "Serabi merupakan jajanan pasar tradisional yang berasal dari Indonesia. Ada dua jenis serabi, yaitu serabi manis yang menggunakan kinca dan serabi asin dengan atau tanpa taburan oncom yang telah dibumbui di atasnya.",
+        "picture" : "https://upload.wikimedia.org/wikipedia/commons/7/7e/Serabi-01.jpg"
+    }
 ]

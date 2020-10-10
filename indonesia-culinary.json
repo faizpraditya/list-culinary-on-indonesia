@@ -1,5 +1,11 @@
 [
     {
+        "name": "Rendang",
+        "region": "Minangkabau",
+        "description": "Rendang is an Indonesian spicy meat dish originating from the Minangkabau region in West Sumatra, Indonesia. It has spread across Indonesia to the cuisines of neighbouring Southeast Asian countries.",
+        "picture": "https://rasamalaysia.com/wp-content/uploads/2018/04/beef-rendang-thumb-480x480.jpg"
+    },
+    {
         "name": "Sate Madura",
         "region": "Madura",
         "description": "Makanan Khas Daerah Madura",

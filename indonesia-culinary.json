@@ -1,15 +1,27 @@
 [
     {
-        "name" : "Kupan Glabed",
-        "region" : "Tegal",
-        "description" : "Kupat glabed adalah kuliner khas Tegal",
-        "picture" : "https://www.goodnewsfromindonesia.id/uploads/post/large-kupat-glabed-dan-sate-blengong-1-3b5c84baf4a7344095cbc5c37cf8f25a.jpg"
+        "name": "Krensengan",
+        "region": "Jawa Timur",
+        "description": "Krengsengan adalah masakan yang biasanya terbuat dari daging kambing yang dipotong kecil (2X2 cm), yang diberi bumbu tumisan bawang merah, bawang putih, ketumbar, merica, pala, (dihaluskan terlebih dahulu) ditambah dengan kecap manis pada waktu memasak, sehingga tidak banyak berkuah dan berwarna coklat tua, ada juga yang dicampur dengan bagian jeroan kambing. Masakan yang khas menggunakan daging kambing ini biasanya dijumpai bersama gulai kambing, dan tongseng yang juga menggunakan daging kambing. Masakan ini umumnya dikenal di Jawa Timur, Jawa Tengah dan DI Yogyakarta. ",
+        "picture": "https://craftlog.com/m/i/4414038=s1280=h960"
     },
     {
-        "name" : "Sate Blengong",
-        "region" : "Brebes",
-        "description" : "Kupat Glabed adalah kuliner khas Brebes",
-        "picture" : "https://asset.kompas.com/crops/JYZK_WhO6fKSdYGkp7M_vvTD8aU=/130x0:726x397/750x500/data/photo/2017/12/26/601775230.jpg"
+        "name": "Seblak",
+        "region": "Bandung",
+        "description": "Seblak adalah makanan Indonesia yang dikenal berasal dari Bandung, Jawa Barat yang bercita rasa gurih dan pedas[1]. Terbuat dari kerupuk basah yang dimasak dengan sayuran dan sumber protein seperti telur, ayam, boga bahari atau olahan daging sapi, dan dimasak dengan kencur.[2] Seblak kini menjadi makanan jajanan jalanan yang digemari berbagai kalangan masyarakat, terutama di Jawa Barat dan Jabodetabek. Seiring berkembangnya tren jajanan tradisional dan kaki lima, seblak tidak hanya disajikan dengan toping biasa di gerobak. Seblak berkembang menjadi makanan yang modern dan berhasil menarik perhatian. Makanan yang bertekstur kenyal ini memiliki rasa yang pedas dan menyegarkan, serta memiliki beberapa variasi, baik rasa maupun bahan tambahan juga kemasan penjualan. ",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Seblak_1.jpg/440px-Seblak_1.jpg"
+    },
+    {
+        "name": "Kupan Glabed",
+        "region": "Tegal",
+        "description": "Kupat glabed adalah kuliner khas Tegal",
+        "picture": "https://www.goodnewsfromindonesia.id/uploads/post/large-kupat-glabed-dan-sate-blengong-1-3b5c84baf4a7344095cbc5c37cf8f25a.jpg"
+    },
+    {
+        "name": "Sate Blengong",
+        "region": "Brebes",
+        "description": "Kupat Glabed adalah kuliner khas Brebes",
+        "picture": "https://asset.kompas.com/crops/JYZK_WhO6fKSdYGkp7M_vvTD8aU=/130x0:726x397/750x500/data/photo/2017/12/26/601775230.jpg"
     },
     {
         "name": "Tahu Bakso",

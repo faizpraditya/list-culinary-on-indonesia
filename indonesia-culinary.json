@@ -1,8 +1,13 @@
-[
-    {
-        "name" : "",
-        "region" : "",
-        "description" : "",
-        "picture" : ""
+[{
+        "name": "Sate Madura",
+        "region": "Madura",
+        "description": "Makanan Khas Daerah Madura",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fresepkoki.id%2Fwp-content%2Fuploads%2F2018%2F01%2FResep-Sate-Ayam-Madura-1.jpg%3Ffit%3D2399%252C2254%26ssl%3D1&imgrefurl=https%3A%2F%2Fresepkoki.id%2Fresep%2Fresep-sate-ayam-madura%2F&tbnid=l1Dl3hX2cRQXbM&vet=12ahUKEwidlMuDuansAhXFHXIKHbe4D50QMygBegUIARChAQ..i&docid=T4H9Kk8xaQ2VlM&w=2399&h=2254&q=sate%20madura&safe=strict&ved=2ahUKEwidlMuDuansAhXFHXIKHbe4D50QMygBegUIARChAQ"
     },
+    {
+        "name": "Sate Maranggi",
+        "region": "Purwakarta",
+        "description": "Makanan Khas Daerah Purwakarta",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.sahabatufs.com%2Fimg%2Fnews%2F03.%2520UFS_Oktober%25202019_Header.jpg&imgrefurl=https%3A%2F%2Fwww.sahabatufs.com%2Fnews%2Fmengenal-sate-maranggi-lebih-dekat-khas-purwakarta&tbnid=dqnIkcU48Q2LDM&vet=12ahUKEwjwt5-kuansAhXhNHIKHfMyBawQMygAegUIARCsAQ..i&docid=CgP5PsZ-fadJ5M&w=1000&h=667&q=sate%20maranggi&safe=strict&ved=2ahUKEwjwt5-kuansAhXhNHIKHfMyBawQMygAegUIARCsAQ"
+    }
 ]

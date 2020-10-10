@@ -1,5 +1,17 @@
 [
     {
+        "name": "Bika Ambon",
+        "region": "Medan",
+        "description": "Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Kue_bika_ambon.JPG/1200px-Kue_bika_ambon.JPG"
+    },
+    {
+        "name": "Kue Ombusombus",
+        "region": "Siborong-borong",
+        "description": "Kue Ombusombus adalah makanan atau jajanan khas Batak yang berasal dari Siborongborong, Tapanuli Utara. Kue ombusombus terbuat dari tepung beras yang diberi gula di tengahnya dan dibungkus dengan daun pisang.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/f/f0/Ombusombus.jpeg"
+    },
+    {
         "name": "pempek",
         "region": "palembang",
         "description": "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.",

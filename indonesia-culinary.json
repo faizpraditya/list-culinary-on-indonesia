@@ -220,5 +220,17 @@
         "region": "Jawa",
         "description": "Klepon atau kelepon adalah sejenis makanan tradisional atau kue tradisional Indonesia yang termasuk ke dalam kelompok jajanan pasar. Makanan enak ini terbuat dari tepung beras ketan yang dibentuk seperti bola-bola kecil dan diisi dengan gula merah lalu direbus dalam air mendidih",
         "picture": "https://cdn.idntimes.com/content-images/community/2020/07/img-20200707-183307-75079284f5b3f127b488c9dfbb27e23c_600x400.jpg"
+    },
+    {
+        "name": "Gudeg",
+        "region": "Yogyakarta",
+        "description": "Gudeg adalah makanan khas Provinsi Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.",
+        "picture": "https://www.wsrentaljogja.com/wp-content/uploads/2018/12/@littlechidee.jpg"
+    },
+    {
+        "name": "Sate Klatak",
+        "region": "Yogyakarta",
+        "description": "Sate klatak adalah sebuah hidangan sate kambing asal Kecamatan Pleret, Kabupaten Bantul, Yogyakarta. Dalam bahasa Jawa, kegiatan membakar sate di pembakaran terbuka disebut \"klathak\". Sate ini sangat berbeda dari ragam sate lainnya, yang biasanya memakai garam dan lada sebagai bumbu utamanya.",
+        "picture": "https://i2.wp.com/njogja.co.id/wp-content/uploads/2014/07/wisata-murah-jogha-klatak.jpg?fit=1600%2C1067&ssl=1"
     }
 ]

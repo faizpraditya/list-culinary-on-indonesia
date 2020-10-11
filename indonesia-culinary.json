@@ -190,8 +190,8 @@
         "region": "Kota Semarang",
         "description": "Tahu pong berasal dari bahasa jawa pong atau kopong yang artinya kosong. Tahu pong telah eksis di daerah semarang semenjak 1930.",
         "picture": "https://jcglobalcitizen.files.wordpress.com/2009/03/tahu-pong.jpg"
-    }
-      {
+    },
+    {
         "name": "Soto Lamongan",
         "region": "Lamongan",
         "description": "Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada serbuk krupuk udangnya yang sering disebut Poya",
@@ -202,5 +202,19 @@
         "region": "Lamongan",
         "description": "Wingko adalah sejenis kue yang terbuat dari kelapa muda, tepung beras ketan dan gula. Wingko sangat terkenal di pantai utara pulau Jawa.",
         "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
+    },
+
+    {
+        "name": "Bingka",
+        "region": "Kalimantan Selatan dan sekitarnya",
+        "description": "Bingka adalah kue khas Suku Banjar, Kalimantan Selatan. Bingka biasanya menjadi hidangan untuk berbuka puasa, rasanya manis dan sangat lembut. Terbuat dari tepung terigu, telur, santan, gula pasir, dan garam dengan kentang, labu atau bahan lainnya",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bingka_kantang_halus.jpg/300px-Bingka_kantang_halus.jpg"
+    },
+    {
+        "name": "Pisang Gapit",
+        "region": "Kalimantan Timur",
+        "description": "Pisang gapit adalah jajanan khas kalimantan timur yang berbahan utama pisang kapok, pisang sanggar atau tanduk yang digapit atau dijepit sambil dibakar, kemudian dilumuri saus khas yang rasanya manis.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pisang_gapit.jpg/800px-Pisang_gapit.jpg"
     }
+
 ]

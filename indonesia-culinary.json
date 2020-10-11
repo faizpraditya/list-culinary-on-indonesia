@@ -191,7 +191,7 @@
         "description": "Tahu pong berasal dari bahasa jawa pong atau kopong yang artinya kosong. Tahu pong telah eksis di daerah semarang semenjak 1930.",
         "picture": "https://jcglobalcitizen.files.wordpress.com/2009/03/tahu-pong.jpg"
     }
-      {
+    {
         "name": "Soto Lamongan",
         "region": "Lamongan",
         "description": "Soto Lamongan adalah sajian makanan soto ayam yang khas dari Lamongan, Jawa Timur. Salah satu ciri khas dari Soto Lamongan ini terletak pada serbuk krupuk udangnya yang sering disebut Poya",
@@ -202,5 +202,23 @@
         "region": "Lamongan",
         "description": "Wingko adalah sejenis kue yang terbuat dari kelapa muda, tepung beras ketan dan gula. Wingko sangat terkenal di pantai utara pulau Jawa.",
         "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
+    },
+    {
+        "name": "Tahu Sumedang",
+        "region": "Sumedang, Jawa Barat",
+        "description": "Tahu Sumedang adalah tahu khas daerah Sumedang, Jawa Barat. Jika dibeli dalam jumlah banyak, umumnya menggunakan bongsang, anyaman bambu yang dapat memuat 25–100 buah tahu goreng.",
+        "picture": "https://cdn-2.tstatic.net/jabar/foto/bank/images/tahu-sumedang-_-ilustrasi.jpg"
+    },
+    {
+        "name": "Coto Makassar",
+        "region": "Makassar, Sulawesi Selatan",
+        "description": "Coto makassar atau coto mangkasara adalah makanan tradisional Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris lalu dibumbui dengan bumbu yang diracik secara khusus.",
+        "picture": "https://cdn.idntimes.com/content-images/post/20191217/hanhanny-60841941-1963894330381469-3916423929361306297-n-c5f0d13e8dbd0a9f273e96f152872cbc.jpg"
+    },
+    {
+        "name": "Klepon",
+        "region": "Jawa",
+        "description": "Klepon atau kelepon adalah sejenis makanan tradisional atau kue tradisional Indonesia yang termasuk ke dalam kelompok jajanan pasar. Makanan enak ini terbuat dari tepung beras ketan yang dibentuk seperti bola-bola kecil dan diisi dengan gula merah lalu direbus dalam air mendidih",
+        "picture": "https://cdn.idntimes.com/content-images/community/2020/07/img-20200707-183307-75079284f5b3f127b488c9dfbb27e23c_600x400.jpg"
     }
 ]

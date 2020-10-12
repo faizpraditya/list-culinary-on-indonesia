@@ -222,9 +222,21 @@
         "picture": "https://cdn.idntimes.com/content-images/community/2020/07/img-20200707-183307-75079284f5b3f127b488c9dfbb27e23c_600x400.jpg"
     },
     {
-	"name": "Mangut",
-	"region": "Jawa Tengah",
-	"description": "Mangut ikan asap dikenal sebagai salah satu hidangan khas Jawa Tengah. Ada versi yang berkuah agak kuning ada juga yang merah oranye. Ini tergantung penambahan cabe dan selera pedas saja. demikian juga untuk kuah encer atau kentalnya. Sementara untuk ikan asap bisa dipakai ikan pari, ikan lele, atau ikan tuna dan jenis ikan lainnya sesuai selera. Ikan manyung juga enak diolah jadi mangut karena dagingnya tebal dan rasanya gurih smoky.",
-	"picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
+        "name": "Gudeg",
+        "region": "Yogyakarta",
+        "description": "Gudeg adalah makanan khas Provinsi Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.",
+        "picture": "https://www.wsrentaljogja.com/wp-content/uploads/2018/12/@littlechidee.jpg"
+    },
+    {
+        "name": "Sate Klatak",
+        "region": "Yogyakarta",
+        "description": "Sate klatak adalah sebuah hidangan sate kambing asal Kecamatan Pleret, Kabupaten Bantul, Yogyakarta. Dalam bahasa Jawa, kegiatan membakar sate di pembakaran terbuka disebut \"klathak\". Sate ini sangat berbeda dari ragam sate lainnya, yang biasanya memakai garam dan lada sebagai bumbu utamanya.",
+        "picture": "https://i2.wp.com/njogja.co.id/wp-content/uploads/2014/07/wisata-murah-jogha-klatak.jpg?fit=1600%2C1067&ssl=1"
+    },
+    {
+        "name": "Mangut",
+        "region": "Jawa Tengah",
+        "description": "Mangut ikan asap dikenal sebagai salah satu hidangan khas Jawa Tengah. Ada versi yang berkuah agak kuning ada juga yang merah oranye. Ini tergantung penambahan cabe dan selera pedas saja. demikian juga untuk kuah encer atau kentalnya. Sementara untuk ikan asap bisa dipakai ikan pari, ikan lele, atau ikan tuna dan jenis ikan lainnya sesuai selera. Ikan manyung juga enak diolah jadi mangut karena dagingnya tebal dan rasanya gurih smoky.",
+        "picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
     }
 ]

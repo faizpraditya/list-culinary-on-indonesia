@@ -298,5 +298,11 @@
         "region": "Tegal",
         "description": "Tahu Aci adalah makanan Khas Tegal,Jawa Tengah, Indonesia yang memiliki rasa gurih dan renyah. Tahu aci dibuat dari tahu kuning memiliki bentuk persegi empat dengan sisi sekitar 7cm. Tahu persegi tersebut dibelah menjadi dua sehingga membentuk 2 segitiga siku-siku.",
         "picture": "https://resepkoki.id/resep/resep-tahu-aci-tegal/"
+    },
+    {
+        "name": "Rujak Teplak",
+        "region": "Tegal",
+        "description": "Rujak ini adalah salah satu makanan khas Tegal, Jawa Tengah, Indonesia. Sambalnya itu lho yang bikin berbeda dengan sambal lainnya, ada campuran singkongnya.",
+        "picture": "https://cookpad.com/id/recipe/images/edf82ade84a0839b"
     }
 ]

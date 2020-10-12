@@ -204,6 +204,18 @@
         "picture": "https://mtbfm.co.id/wp-content/uploads/2019/10/WINGKO-BABAT.jpg"
     },
     {
+        "name": "Bingka",
+        "region": "Kalimantan Selatan dan sekitarnya",
+        "description": "Bingka adalah kue khas Suku Banjar, Kalimantan Selatan. Bingka biasanya menjadi hidangan untuk berbuka puasa, rasanya manis dan sangat lembut. Terbuat dari tepung terigu, telur, santan, gula pasir, dan garam dengan kentang, labu atau bahan lainnya",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bingka_kantang_halus.jpg/300px-Bingka_kantang_halus.jpg"
+    },
+    {
+        "name": "Pisang Gapit",
+        "region": "Kalimantan Timur",
+        "description": "Pisang gapit adalah jajanan khas kalimantan timur yang berbahan utama pisang kapok, pisang sanggar atau tanduk yang digapit atau dijepit sambil dibakar, kemudian dilumuri saus khas yang rasanya manis.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pisang_gapit.jpg/800px-Pisang_gapit.jpg"
+    },
+    {
         "name": "Tahu Sumedang",
         "region": "Sumedang, Jawa Barat",
         "description": "Tahu Sumedang adalah tahu khas daerah Sumedang, Jawa Barat. Jika dibeli dalam jumlah banyak, umumnya menggunakan bongsang, anyaman bambu yang dapat memuat 25–100 buah tahu goreng.",
@@ -220,6 +232,12 @@
         "region": "Jawa",
         "description": "Klepon atau kelepon adalah sejenis makanan tradisional atau kue tradisional Indonesia yang termasuk ke dalam kelompok jajanan pasar. Makanan enak ini terbuat dari tepung beras ketan yang dibentuk seperti bola-bola kecil dan diisi dengan gula merah lalu direbus dalam air mendidih",
         "picture": "https://cdn.idntimes.com/content-images/community/2020/07/img-20200707-183307-75079284f5b3f127b488c9dfbb27e23c_600x400.jpg"
+    },
+    {
+        "name": "Mangut",
+        "region": "Jawa Tengah",
+        "description": "Mangut ikan asap dikenal sebagai salah satu hidangan khas Jawa Tengah. Ada versi yang berkuah agak kuning ada juga yang merah oranye. Ini tergantung penambahan cabe dan selera pedas saja. demikian juga untuk kuah encer atau kentalnya. Sementara untuk ikan asap bisa dipakai ikan pari, ikan lele, atau ikan tuna dan jenis ikan lainnya sesuai selera. Ikan manyung juga enak diolah jadi mangut karena dagingnya tebal dan rasanya gurih smoky.",
+        "picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
     },
     {
         "name": "Gudeg",

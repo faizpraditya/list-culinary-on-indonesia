@@ -240,6 +240,24 @@
         "picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
     },
     {
+        "name": "Telur Asin",
+        "region": "Brebes",
+        "description": "Telur asin adalah istilah umum untuk masakan berbahan dasar telur yang diawetkan dengan cara diasinkan. Kebanyakan telur yang diasinkan adalah telur itik, meski tidak menutup kemungkinan untuk telur-telur yang lain. Telur asin baik dikonsumsi dalam waktu satu bulan.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tokopedia.com%2Fbosmart99%2Ftelur-asin-1-butir-telur-bebek-asli-matang-siap-makan-harga-grosir&psig=AOvVaw18i09Ck0odsnu2hZjTRK1R&ust=1602514416555000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCqwsnlrOwCFQAAAAAdAAAAABAD"
+    },
+    {
+        "name": "Pempek",
+        "region": "Plembang",
+        "description": "Pempek atau empek-empek adalah makanan yang terbuat dari daging ikan yang digiling lembut yang dicampur tepung kanji atau tepung sagu, serta komposisi beberapa bahan lain seperti telur, bawang putih yang dihaluskan, penyedap rasa, dan garam.",
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2020%2F09%2F26%2F101000575%2Fresep-pempek-nasi-solusi-praktis-olahan-nasi-sisa&psig=AOvVaw1If9o66SxggkrVeLYaJMdO&ust=1602514550353000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCv24nmrOwCFQAAAAAdAAAAABAD"
+    },
+    {
+        "name": "Mangut",
+        "region": "Jawa Tengah",
+        "description": "Mangut ikan asap dikenal sebagai salah satu hidangan khas Jawa Tengah. Ada versi yang berkuah agak kuning ada juga yang merah oranye. Ini tergantung penambahan cabe dan selera pedas saja. demikian juga untuk kuah encer atau kentalnya. Sementara untuk ikan asap bisa dipakai ikan pari, ikan lele, atau ikan tuna dan jenis ikan lainnya sesuai selera. Ikan manyung juga enak diolah jadi mangut karena dagingnya tebal dan rasanya gurih smoky.",
+        "picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
+    },
+    {
         "name": "Gudeg",
         "region": "Yogyakarta",
         "description": "Gudeg adalah makanan khas Provinsi Yogyakarta yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan.",

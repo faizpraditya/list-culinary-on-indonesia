@@ -292,5 +292,18 @@
         "region": "Jawa Tengah",
         "description": "Mangut ikan asap dikenal sebagai salah satu hidangan khas Jawa Tengah. Ada versi yang berkuah agak kuning ada juga yang merah oranye. Ini tergantung penambahan cabe dan selera pedas saja. demikian juga untuk kuah encer atau kentalnya. Sementara untuk ikan asap bisa dipakai ikan pari, ikan lele, atau ikan tuna dan jenis ikan lainnya sesuai selera. Ikan manyung juga enak diolah jadi mangut karena dagingnya tebal dan rasanya gurih smoky.",
         "picture": "https://akcdn.detik.net.id/community/media/visual/2020/09/10/resep-mangut-ikan-asap-1.jpeg?w=700&q=90"
+    },
+    {
+        "name": "Karedok",
+        "region": "Jawa Barat",
+        "description": " Karedok adalah makanan khas Sunda yang disajikan dengan sayur-sayuran mentah dan disiram dengan bumbu kacang.",
+        "picture": "https://ecs7.tokopedia.net/blog-tokopedia-com/uploads/2017/11/Makanan-Khas-Sunda2.jpg"
+    },
+    {
+        "name": "Lotek",
+        "region": "Jawa Barat",
+        "description": " Lotek adalah makanan khas Sunda yang disajikan dengan sayur-sayuran matang dan disiram dengan bumbu kacang.",
+        "picture": "https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/wihdiluthfi/20191912img_0746.jpg"
     }
+    
 ]

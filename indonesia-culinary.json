@@ -628,5 +628,17 @@
         "region": "Tegal",
         "description": "Rujak ini adalah salah satu makanan khas Tegal, Jawa Tengah, Indonesia. Sambalnya itu lho yang bikin berbeda dengan sambal lainnya, ada campuran singkongnya.",
         "picture": "https://cookpad.com/id/recipe/images/edf82ade84a0839b"
+    },
+	{
+        "name": "Kue Lontar",
+        "region": "Papua",
+        "description": "Kue Lontar adalah dessert yang berasal dari Papua. Kue Lontar juga disebut sebagai Pie Susu. Kue Lontar ini sangat cocok disantap ketika hangat",
+        "picture": "https://www.makanabis.com/bima-content/2020/03/06/l-lontarr1754f92ef8163a50c035d27bcec84657520200306152304-bimacms.jpg"
+    },
+	{
+        "name": "Sate Ulat Sagu",
+        "region": "Papua",
+        "description": "Sate Ulat Sagu adalah Sate yang berasal dari ulat pohon sagu yang dipotong dan dibiarkan membusuk.Masyarakat setempat biasa menyebut sate ulat sagu ini sebagai 'Koo'",
+        "picture": "https://www.makanabis.com/bima-content/2020/03/06/l-lontarr1754f92ef8163a50c035d27bcec84657520200306152304-bimacms.jpg"
     }
 ]

@@ -628,5 +628,17 @@
         "region": "Tegal",
         "description": "Rujak ini adalah salah satu makanan khas Tegal, Jawa Tengah, Indonesia. Sambalnya itu lho yang bikin berbeda dengan sambal lainnya, ada campuran singkongnya.",
         "picture": "https://cookpad.com/id/recipe/images/edf82ade84a0839b"
+    },
+    {
+        "name": "Lakso",
+        "region": "Sumatera Selatan, Palembang",
+        "description": "Lakso adalah hidangan mie gurih khas Indonesia yang disajikan dalam kuah berbahan santan kelapa berwarna kekuningan yang gurih, biasanya dicampur dengan ikan, dan ditaburi bawang goreng. Hidangan ini adalah salah satu makanan khas daerah Palembang, ibukota Sumatera Selatan, Indonesia.[1]",
+        "picture": "https://cookpad.com/id/resep/11171341-lakso-bangka"
+    },
+    {
+        "name": "Celimpungan",
+        "region": "Sumatera Selatan, Palembang",
+        "description": "Celimpungan adalah makanan yang berasal dari Sumatra Selatan. Bahan dasar celimpungan adalah adonan sagu dan ikan seperti halnya empek-empek yang juga berasal dari Sumatra Selatan. Perbedaan di antara keduanya terletak pada bentuk dan kuahnya. Celimpungan berbentuk bulat dengan diameter 10 cm dan tipis (pipih). Kuahnya terbuat dari santan dan racikan bumbu-bumbu lainnya. Celimpungan dimakan bersama sambal gorengnya.",
+        "picture": "https://cookpad.com/id/resep/805462-celimpungan-palembang"
     }
 ]

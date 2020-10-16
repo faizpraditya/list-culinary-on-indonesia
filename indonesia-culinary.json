@@ -642,6 +642,18 @@
         "picture": "https://cookpad.com/id/resep/805462-celimpungan-palembang"
     },
     {
+        "name": "Nasi Gandul",
+        "region": "Pati, Jawa Tengah",
+        "description": "Nasi gandul atau Sego Gandul adalah masakan khas yang berasal dari daerah Pati, Jawa Tengah, Indonesia yang sepintas mirip dengan Semur Daging dan Gulai.",
+        "picture": "https://cookpad.com/id/resep/13835562-nasi-gandul-khas-pati"
+    },
+    {
+        "name": "Nasi Tewel",
+        "region": "Pati, Jawa Tengah",
+        "description": "Sego Tewel adalah masakan khas dari Kabupaten Pati yang terbuat dari tewel atau nangka muda dimasak dengan santan sebagai kuah sayur.",
+        "picture": "https://cookpad.com/id/resep/10702571-sayur-tewel-tempe-pedes-khas-pati"
+    },
+    {
         "name": "Model",
         "region": "Palembang, Sumatera Selatan",
         "description": "Model adalah makanan khas Sumatera Selatan yang terbagi menjadi dua macam yaitu model gendum dan model ikan. Model gendum terbuat dari tepung terigu. Sedangkan model ikan terbuat dari sagu dan daging ikan.",

@@ -652,5 +652,29 @@
         "region": "Pati, Jawa Tengah",
         "description": "Sego Tewel adalah masakan khas dari Kabupaten Pati yang terbuat dari tewel atau nangka muda dimasak dengan santan sebagai kuah sayur.",
         "picture": "https://cookpad.com/id/resep/10702571-sayur-tewel-tempe-pedes-khas-pati"
+    },
+    {
+        "name": "Model",
+        "region": "Palembang, Sumatera Selatan",
+        "description": "Model adalah makanan khas Sumatera Selatan yang terbagi menjadi dua macam yaitu model gendum dan model ikan. Model gendum terbuat dari tepung terigu. Sedangkan model ikan terbuat dari sagu dan daging ikan.",
+        "picture": "https://wisatapalembangblog.files.wordpress.com/2016/04/model.jpg"
+    },
+    {
+        "name": "Tekwan",
+        "region": "Palembang, Sumatera Selatan",
+        "description": "Tekwan adalah makanan khas Sumatera Selatan yang berbahan dasar sagu dan daging ikan. Namun tekwan dibuat dalam bualatan kecil-kecil mirip bakso. Penyajiannya sama menggunakan kuah kaldu udang dilengkapi dengan bihun, irisan bengkoang, jamur dan ditaburi irisan daun bawang, seledri serta bawang goreng.",
+        "picture": "https://img-global.cpcdn.com/recipes/b30da155a5c03498/1200x630cq70/photo.jpg"
+    },
+    {
+        "name": "Tahu Poo",
+        "region": "Kediri, Jawa Timur",
+        "description": "Tahu takwa atau tahu kuning khas Kediri ini bisa direndam air panas jika akan dibawa keluar kota. Jika ingin membeli tahu takwa atau tahu kuning kunjungilah kota Kediri di jalan Yos Sudarso no.92 Kediri.",
+        "picture": "https://3.bp.blogspot.com/--ptOyf_5Jb4/Woy4b_pvZ1I/AAAAAAAAEck/SkvhAPr4rHMArE8XYfxEHRFV3UbzGACJgCLcBGAs/s1600/IMG20180217122532.jpg"
+    },
+    {
+        "name": "Dumbeg",
+        "region": "Tuban, Jawa Timur",
+        "description": "Bentuknya seperti terompet yang bungkusnya dari lilitan daun siwalan atau janur. Bau daun siwalan membuat kue dumbek mempunya ciri khas tersendiri. Persebaran dumbek ini berada di Rembang, Tuban, Lamongan, Gresik karena masih terdapat daun siwalan disekitarnya. Dumbek rasanya manis, ada bau khas daun siwalan.",
+        "picture": "https://aktual.web.id/wp-content/uploads/2018/02/Dumbek-Tuban-660x468.jpg"
     }
 ]

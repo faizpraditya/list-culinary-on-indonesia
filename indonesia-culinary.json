@@ -640,5 +640,17 @@
         "region": "Sumatera Selatan, Palembang",
         "description": "Celimpungan adalah makanan yang berasal dari Sumatra Selatan. Bahan dasar celimpungan adalah adonan sagu dan ikan seperti halnya empek-empek yang juga berasal dari Sumatra Selatan. Perbedaan di antara keduanya terletak pada bentuk dan kuahnya. Celimpungan berbentuk bulat dengan diameter 10 cm dan tipis (pipih). Kuahnya terbuat dari santan dan racikan bumbu-bumbu lainnya. Celimpungan dimakan bersama sambal gorengnya.",
         "picture": "https://cookpad.com/id/resep/805462-celimpungan-palembang"
+    },
+    {
+        "name": "Nasi Gandul",
+        "region": "Pati, Jawa Tengah",
+        "description": "Nasi gandul atau Sego Gandul adalah masakan khas yang berasal dari daerah Pati, Jawa Tengah, Indonesia yang sepintas mirip dengan Semur Daging dan Gulai.",
+        "picture": "https://cookpad.com/id/resep/13835562-nasi-gandul-khas-pati"
+    },
+    {
+        "name": "Nasi Tewel",
+        "region": "Pati, Jawa Tengah",
+        "description": "Sego Tewel adalah masakan khas dari Kabupaten Pati yang terbuat dari tewel atau nangka muda dimasak dengan santan sebagai kuah sayur.",
+        "picture": "https://cookpad.com/id/resep/10702571-sayur-tewel-tempe-pedes-khas-pati"
     }
 ]

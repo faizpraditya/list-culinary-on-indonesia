@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Laksa",
         "region": "Betawi,Bogor,Tangerang",
         "description": "Laksa biasanya disajikan dengan mi ataupun telur rebus. Namun masing-masing daerah memiliki ciri laksanya sendiri. Sekilas, laksa seperti makanan dengan kuah kari atau opor karena kuahnya sendiri bewarna kekuningan dengan cita rasa yang khas dan bikin nagih.",
@@ -676,5 +675,11 @@
         "region": "Tuban, Jawa Timur",
         "description": "Bentuknya seperti terompet yang bungkusnya dari lilitan daun siwalan atau janur. Bau daun siwalan membuat kue dumbek mempunya ciri khas tersendiri. Persebaran dumbek ini berada di Rembang, Tuban, Lamongan, Gresik karena masih terdapat daun siwalan disekitarnya. Dumbek rasanya manis, ada bau khas daun siwalan.",
         "picture": "https://aktual.web.id/wp-content/uploads/2018/02/Dumbek-Tuban-660x468.jpg"
+    },
+    {
+        "name": "Gado-gado",
+        "region": "Jakarta, DKI Jakarta",
+        "description": "Gado-gado adalah salah satu makanan khas yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah dan yang dihaluskan disertai irisan telur dan pada umumnya banyak yang menambahkan kentang rebus yang sudah dihaluskan untuk saus gado gado kentang rebus dimasak bersamaan dengan bumbu kacang kemudian di atasnya ditaburi bawang goreng. Sedikit emping goreng atau kerupuk (ada juga yang memakai kerupuk udang) juga ditambahkan",
+        "picture": "https://id.wikipedia.org/wiki/Berkas:Gado_gado.jpg"
     }
 ]

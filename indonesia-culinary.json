@@ -686,6 +686,24 @@
         "name": "Bubur Ayam",
         "region": "Indonesia",
         "description": "Bubur ayam adalah salah satu jenis makanan bubur dari Indonesia. Bubur nasi adalah beras yang dimasak dengan air yang banyak sehingga memiliki tekstur yang lembut dan berair. Bubur biasanya disajikan dalam suhu panas atau hangat. Bubur ayam disajikan dengan irisan daging ayam dengan beberapa bumbu, seperti kecap asin dan kecap manis, merica, garam, dan kadang-kadang diberi kaldu ayam.",
-        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bubur_ayam_chicken_porridge.JPG/250px-Bubur_ayam_chicken_porridge.JPG",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bubur_ayam_chicken_porridge.JPG/250px-Bubur_ayam_chicken_porridge.JPG"
+    },
+    {
+        "name": "Empal Gentong",
+        "region": "Cirebon, Jawa Barat",
+        "description": "Makanan ini mirip dengan gulai (gule) dan dimasak menggunakan kayu bakar (pohon mangga) di dalam gentong (periuk tanah liat). Daging yang digunakan adalah usus, babat dan daging sapi.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Indonesian_soup-Empal_Gentong-01.jpg"
+    },
+    {
+        "name": "Tahu Gejrot",
+        "region": "Cirebon, Jawa Barat",
+        "description": "Tahu gejrot terdiri dari tahu sumedang yang sudah digoreng kemudian dipotong agak kecil lalu dimakan dengan kuah yang bumbunya cabai, bawang putih, bawang merah, gula. Biasanya disajikan di layah kecil dan dimakan dengan cara ditusuk menggunakan satu lidi kecil.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tahugejrot_Hariadhi.jpg"
+    },
+    {
+        "name": "Cilok",
+        "region": "Jawa Barat",
+        "description": "Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/2/27/Cilok.jpg"
     }
 ]

@@ -705,5 +705,17 @@
         "region": "Jawa Barat",
         "description": "Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso.",
         "picture": "https://upload.wikimedia.org/wikipedia/id/2/27/Cilok.jpg"
+    },
+    {
+        "name": "Lumpia",
+        "region": "Kota Semarang",
+        "description": "Lumpia atau terkadang dieja sebagai lun pia adalah sejenis jajanan tradisional Tionghoa. Lumpia yang dikenal oleh orang Indonesia merupakan lafal Bahasa Hokkian.Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut. Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lumpia.JPG"
+    },
+    {
+        "name": "Horok-Horok",
+        "region": "Jepara, Jawa Tengah",
+        "description": "Horok-horok adalah makanan ringan yang terbuat dari tepung pohon aren. Horok-Horok adalah makanan yang tergolong langka, di karenakan Horok-horok umumnya hanya ditemukan di Jepara, Sulit bahkan tidak dapat ditemukan di luar Jepara. Horok-horok umumnya dimakan dengan Sate Kikil, soto, bakso, gulai, dan sayur pecel. Selain itu dapat juga dimakan dengan diberi santan dan sedikit gula pasir, seperti bubur.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/a/af/Horok-Horok_Makanan_Khas_Jepara.jpeg"
     }
 ]

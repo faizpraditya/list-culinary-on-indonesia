@@ -705,5 +705,11 @@
         "region": "Jawa Barat",
         "description": "Cilok adalah sebuah makanan khas Jawa Barat yang terbuat dari tapioka yang kenyal dengan tambahan bumbu pelengkap seperti sambal kacang, kecap, dan saus. Cilok bentuknya bulat-bulat seperti bakso.",
         "picture": "https://upload.wikimedia.org/wikipedia/id/2/27/Cilok.jpg"
+    },
+    {
+        "name": "Tutug Oncom",
+        "region": "Tasikmalaya, Jawa Barat",
+        "description": "Tutug oncom adalah makanan khas sunda yang mana makanan ini terbuat dari nasi yang diaduk dengan oncom goreng atau bakar.",
+        "picture": "https://upload.wikimedia.org/wikipedia/id/d/d1/Nasi_tutug_oncom.jpg"
     }
 ]
